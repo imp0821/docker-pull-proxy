@@ -1,1 +1,1 @@
-mysql:5.7.18 registry.cn-hangzhou.aliyuncs.com/truth-ai/mysql:5.7.18
+redis:7.2.4 registry.cn-hangzhou.aliyuncs.com/truth-ai/redis:7.2.4
