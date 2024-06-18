@@ -1,1 +1,1 @@
-continuumio/miniconda3:24.1.2-0 registry.cn-hangzhou.aliyuncs.com/truth-ai/miniconda3:24.1.2-0
+mysql:5.7.18 registry.cn-hangzhou.aliyuncs.com/truth-ai/mysql:5.7.18
