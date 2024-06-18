@@ -1,1 +1,1 @@
-node:20-alpine registry.cn-hangzhou.aliyuncs.com/truth-ai/node
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4 registry.cn-hangzhou.aliyuncs.com/truth-ai/elasticsearch:8.11.4
