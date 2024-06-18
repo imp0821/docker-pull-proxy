@@ -1,1 +1,1 @@
-python:3.11.8-alpine3.18 registry.cn-hangzhou.aliyuncs.com/truth-ai/python:3.11.8-alpine3.18
+python:3.10.13-slim-bookworm registry.cn-hangzhou.aliyuncs.com/truth-ai/python:3.10.13-slim-bookworm
