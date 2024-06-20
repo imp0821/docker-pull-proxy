@@ -1,1 +1,1 @@
-node:20-alpine registry.cn-hangzhou.aliyuncs.com/truth-ai/node:20-alpine
+allenai/grobid:0.5.6-pdf-structure registry.cn-hangzhou.aliyuncs.com/truth-ai/allenai_grobid:0.5.6-pdf-structure
