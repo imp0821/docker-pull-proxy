@@ -1,1 +1,1 @@
-allenai/grobid:0.5.6-pdf-structure registry.cn-hangzhou.aliyuncs.com/truth-ai/allenai_grobid:0.5.6-pdf-structure
+pytorch/pytorch:2.2.0-cuda12.1-cudnn8-devel registry.cn-hangzhou.aliyuncs.com/truth-ai/pytorch:2.2.0-cuda12.1-cudnn8-devel
