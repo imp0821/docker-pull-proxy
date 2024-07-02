@@ -1,1 +1,1 @@
-nvidia/cuda:12.1.1-base-ubuntu22.04 registry.cn-hangzhou.aliyuncs.com/truth-ai/cuda:12.1.1-base-ubuntu22.04
+nvidia/cuda:12.1.1-runtime-ubuntu22.04 registry.cn-hangzhou.aliyuncs.com/truth-ai/cuda:12.1.1-runtime-ubuntu22.04
