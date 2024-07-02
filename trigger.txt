@@ -1,1 +1,1 @@
-pytorch/pytorch:2.2.0-cuda12.1-cudnn8-devel registry.cn-hangzhou.aliyuncs.com/truth-ai/pytorch:2.2.0-cuda12.1-cudnn8-devel
+nvidia/cuda:12.1.1-base-ubuntu22.04 registry.cn-hangzhou.aliyuncs.com/truth-ai/cuda:12.1.1-base-ubuntu22.04
