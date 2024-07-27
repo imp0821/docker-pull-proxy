@@ -1,1 +1,1 @@
-python:3.11.9-slim registry.cn-hangzhou.aliyuncs.com/truth-ai/python:3.11.9-slim
+mhadhbixissam/ubuntu-conda-pytorch:main registry.cn-hangzhou.aliyuncs.com/truth-ai/ubuntu-conda-pytorch:main
