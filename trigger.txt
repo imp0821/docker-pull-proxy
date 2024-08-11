@@ -1,1 +1,1 @@
-mhadhbixissam/ubuntu-conda-pytorch:main registry.cn-hangzhou.aliyuncs.com/truth-ai/ubuntu-conda-pytorch:main
+infiniflow/ragflow-base:v2.0 registry.cn-hangzhou.aliyuncs.com/truth-ai/ragflow-base:v2.0
