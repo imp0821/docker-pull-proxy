@@ -1,1 +1,1 @@
-infiniflow/ragflow-base:v2.0 registry.cn-hangzhou.aliyuncs.com/truth-ai/ragflow-base:v2.0
+mongo:5.0 registry.cn-hangzhou.aliyuncs.com/truth-ai/mongo:5.0
