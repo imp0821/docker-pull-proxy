@@ -1,1 +1,1 @@
-memcached:1.6.23-alpine registry.cn-hangzhou.aliyuncs.com/truth-ai/memcached:1.6.23-alpine
+prom/memcached-exporter:v0.14.2 registry.cn-hangzhou.aliyuncs.com/truth-ai/memcached-exporter:v0.14.2
