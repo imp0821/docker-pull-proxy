@@ -1,1 +1,1 @@
-prom/memcached-exporter:v0.14.2 registry.cn-hangzhou.aliyuncs.com/truth-ai/memcached-exporter:v0.14.2
+docker.io/grafana/loki-canary:3.2.0 registry.cn-hangzhou.aliyuncs.com/truth-ai/loki-canary:3.2.0
