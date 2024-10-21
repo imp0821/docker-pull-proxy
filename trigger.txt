@@ -1,1 +1,1 @@
-kiwigrid/k8s-sidecar:1.27.5 registry.cn-hangzhou.aliyuncs.com/truth-ai/k8s-sidecar:1.27.5
+memcached:1.6.23-alpine registry.cn-hangzhou.aliyuncs.com/truth-ai/memcached:1.6.23-alpine
