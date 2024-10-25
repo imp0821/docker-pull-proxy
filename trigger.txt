@@ -1,1 +1,1 @@
-grafana/grafana:10.4 registry.cn-hangzhou.aliyuncs.com/truth-ai/grafana:10.4
+grafana/grafana:10.4.11 registry.cn-hangzhou.aliyuncs.com/truth-ai/grafana:10.4.11
