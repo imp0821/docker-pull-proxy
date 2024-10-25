@@ -1,1 +1,1 @@
-grafana/promtail:3.0.0 registry.cn-hangzhou.aliyuncs.com/truth-ai/promtail:3.0.0
+grafana/grafana:10.4 registry.cn-hangzhou.aliyuncs.com/truth-ai/grafana:10.4
