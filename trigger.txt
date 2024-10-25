@@ -1,1 +1,1 @@
-grafana/grafana:10.4.11 registry.cn-hangzhou.aliyuncs.com/truth-ai/grafana:10.4.11
+louislam/uptime-kuma:1 registry.cn-hangzhou.aliyuncs.com/truth-ai/uptime-kuma:1
