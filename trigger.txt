@@ -1,1 +1,1 @@
-docker.io/nginxinc/nginx-unprivileged:1.27-alpine registry.cn-hangzhou.aliyuncs.com/truth-ai/nginx-unprivileged:1.27-alpine
+grafana/promtail:3.0.0 registry.cn-hangzhou.aliyuncs.com/truth-ai/promtail:3.0.0
