@@ -1,1 +1,1 @@
-louislam/uptime-kuma:1 registry.cn-hangzhou.aliyuncs.com/truth-ai/uptime-kuma:1
+kubesphere/metrics-server:v0.6.1 registry.cn-hangzhou.aliyuncs.com/truth-ai/metrics-server:v0.6.1
